@@ -1,0 +1,9 @@
+main: me.Color5.BPPlayerHideShow.Main
+name: BPPlayerHideShow
+version: 1.0
+author: Color5
+
+commands: 
+  hide: 
+  show:
+  hidetool:
